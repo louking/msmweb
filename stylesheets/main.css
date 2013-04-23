@@ -1,0 +1,81 @@
+.body {
+  font-family: Verdana, Helvetica, sans-serif;
+  text-align: left;
+  margin: 5px;
+  padding: 0;
+  position: absolute;
+  left: 145px;
+}
+
+/* The #navigation is the full navigation which is an unordered list */
+#navigation {
+    margin: 5px; 
+    padding: 0; 
+    list-style: none; 
+    white-space: nowrap; /* This is optional but prevents from line wrapping */
+    text-align: left; 
+    width: 130px; /* Width of the top level items */
+    background: #c9eeff;
+    border: 1px solid #09C;
+    float: left; /* Floats navigation to the left */
+}
+
+/* The list items/links, removes the default styles for list items and makes them look like a menu by removing the bullets */
+#navigation  li {
+    margin: 0; 
+    padding: 0; 
+    list-style: none;
+}
+
+#navigation  li {
+    display: list-item;
+    text-transform: uppercase; /* Converts all letters to capitals */
+    color: #4f8ba3; /* Changes font colour */
+}
+
+/* When submenus are not supposed to show, this hides them */
+#navigation ul {
+    position: absolute; 
+    left: -9999px;
+}
+
+#navigation  a {
+    display: block; /* Makes the entire link (not just the text, as there is padding on the anchor) clickable */
+    font: bold 15px verdana,arial,sans-serif; 
+    color: #0099ca;
+    line-height: 25px; /* Sets the height of the line (adds padding to the font until it reaches right height) */
+    text-decoration: none; /* Gets rid of underlines in the link */
+    padding: 0 20px 0 10px; /* Padding to the link */
+} 
+
+/* Styling for the optional in menu headings */
+#navigation h3 {
+    margin: 0px;
+    font-size: 0.9em;
+    text-align: center; /* Note the American spelling used throughout css */
+}
+
+/* This styling happens when a mouse hovers over the link */
+#navigation li a:hover {
+    background-color: #09c; 
+    color: #fff;
+} 
+
+/* This styling happens to the submenu links when a top level link is hovered over  */
+#navigation  li:hover > a {
+    background-color: #09c; 
+    color: #fff;
+}
+
+/* This styling happens to the submenu ul when the top level list items are hovered over */
+#navigation li:hover > ul {
+    min-width: 130px;
+    padding: 5px;
+    left: 131px; /* For the example I needed the submenu to the right of the main menu, you may need to change this if you change the width */
+    margin-top: -22px; /* Also for the example I used this to align the submenu with the link in the top level menu */
+    border: 1px solid #09C;
+    background-color: white;
+    z-index: 999;
+    position: absolute; /* This makes the position set by css rather than where it thinks it should go */
+}
+

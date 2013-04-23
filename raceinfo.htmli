@@ -1,0 +1,117 @@
+[template]
+
+templatefile = msm.template
+outputdir = ../../operational/marketstreetmile-website
+outputext = html
+
+[substitutions]
+
+title = MSM Race Info
+
+styles =
+    <style type="text/css">
+        table {position:relative; left: +0.25in;}
+    </style>
+    
+body =
+    <h3>Course</h3>
+    
+    Point to point race, beginning at the Frederick YMCA, 1000 N. Market St., South on Market St to Carroll Creek Linear Park
+    
+    <h3>Race Schedule - September 14, 2013</h3>
+    
+    <table>
+        <tr>
+            <td>7:30-8:45am</td>
+            <td>Registration/Packet Pick-up</td>
+        </tr>
+        <tr>
+            <td>8:45</td>
+            <td>Women's Mile</td>
+        </tr>
+        <tr>
+            <td>9:00</td>
+            <td>Men's Mile</td>
+        </tr>
+        <tr>
+            <td>9:15</td>
+            <td>Youth Mile - 14 and under</td>
+        </tr>
+        <tr>
+            <td>9:30</td>
+            <td>Family Mile / Fun Mile - untimed</td>
+        </tr>
+        <tr>
+            <td>9:45</td>
+            <td>Random Prize Drawing</td>
+        </tr>
+        <tr>
+            <td>10:00</td>
+            <td>Awards Ceremony at Finish Line</td>
+        </tr>
+    </table>
+    
+    <h3>Race Fees</h3>
+
+    <table border="1">
+        <tr>
+            <th>Event</th>
+            <th>thru 8/14</th>
+            <th>8/15 and after</th>
+        </tr>
+        <tr>
+            <td>Women's Mile</td>
+            <td>$15 per runner</td>
+            <td>$20 per runner</td>
+        </tr>
+        <tr>
+            <td>Men's Mile</td>
+            <td>$15 per runner</td>
+            <td>$20 per runner</td>
+        </tr>
+        <tr>
+            <td>Youth Mile</td>
+            <td>$15 per runner</td>
+            <td>$20 per runner</td>
+        </tr>
+        <tr>
+            <td>Family Mile (not timed)</td>
+            <td>$15 per family</td>
+            <td>$20 per family</td>
+        </tr>
+        <tr>
+            <td>Fun Mile (not timed)</td>
+            <td>$15 per runner</td>
+            <td>$20 per runner</td>
+        </tr>
+    </table>
+    
+    <h3>Available Commemorative 30th Anniversary Mile T-shirt</h3>
+
+    <ul>
+        <li>$6 Youth</li>
+        <li>$11 Adult</li>
+    </ul>
+    
+    <h3>Awards</h3>
+    
+    <ul>
+        <li>Men's Overall Open/Masters (40 and over), Women's Open/Masters: $50</li>
+        <li>Men's/Women's  Awards (1st and 2nd): 19 and under, 80 and over, 5 year age groups in between </li>
+        <li>Youth Awards (1st, 2nd, 3rd): 8 and under, 9-11, 12-14</li>
+        <li>Finisher's medals to participants 14 and under in Youth, Family and Fun Mile events</li>
+    </ul>
+    
+    No duplicate awards,  awards will not be mailed, must be present for random prizes
+
+    <h3>Race Info</h3>
+    
+    <ul>
+        <li>Early Packet Pickup: 9/12 5-7pm, If the Shoe Fits, 1170 W. Patrick St</li>
+        <li>Start: Frederick YMCA, 1000 N. Market Street</li>
+        <li>Finish: Market Street at Carroll Creek </li>
+        <li>The Market Street Mile is a Grand Prix Event for the Frederick Steeplechaser Running Club, and the Maryland RRCA</li>
+        <li>No headphones, baby joggers, dogs allowed in timed events
+        <li><a href="MSM2013Flyer,v1.1.pdf" target="_blank">Flyer/mail-in registration form</a> available, but preference is <a href="http://www.runningahead.com/events/MSM" target="_blank">online registration</a> (no additional fee)</li>
+    </ul>
+

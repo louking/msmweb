@@ -1,0 +1,68 @@
+[template]
+
+templatefile = msm.template
+outputdir = ../../operational/marketstreetmile-website
+outputext = html
+
+[substitutions]
+
+title = Market Street Mile
+
+body =
+    <h2>Market Street Mile - Frederick, MD</h2>
+    
+    <h3>September 14, 2013</h3>
+
+    <table style="margin: 5px">
+        <tr>
+            <td>8:45am</td>
+            <td>Women's Mile</td>
+        </tr>
+        <tr>
+            <td>9:00</td>
+            <td>Men's Mile</td>
+        </tr>
+        <tr>
+            <td>9:15</td>
+            <td>Youth Mile - 14 and under</td>
+        </tr>
+        <tr>
+            <td>9:30</td>
+            <td>Family Mile / Fun Mile - untimed</td>
+        </tr>
+    </table>
+    
+    <div>
+        <br>
+        <img style="" alt="Market Street" src="images/market-street.jpg">
+        <br>
+    </div>
+    
+    <p>
+    Proceeds benefit the Panther's Running Club at Lincoln Elementary School, supported by the Frederick
+    Steeplechaser Running Club and Market Street Mile sponsor Rotary Club of Caroll Creek
+    </p>
+    
+    <table>
+        <tr>
+            <td><img style="height: 2in;" alt="FSRC Logo" src="images/fsrc-logo.jpg"></td>
+            <td><img style="height: 2in;" alt="Lincoln Panthers" src="images/panthers.jpg"></td>
+            <td><img style="height: 2in; text-align: center;" alt="Rotary Club Logo" src="images/rotary-club-logo.jpg"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td style="text-align: center;">Carroll Creek</td>
+        </tr>
+    </table>
+    
+    <h3>About</h3>
+    <div style="position: relative; left: +0.4in;">
+        <!-- <p style="text-indent: +0.4in;"> -->
+        <p>
+        more about <a href="http://www.steeplechasers.org" target="_blank">Frederick Steeplechaser Running Club</a>
+        </p>
+        <a href="http://www.facebook.com/profile.php?ref=profile&id=100000533993816#/group.php?gid=200416424666" target="_blank">
+            <img src="images/facebook.jpg"/>
+        </a>
+    </div>

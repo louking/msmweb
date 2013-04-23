@@ -1,0 +1,55 @@
+[template]
+
+templatefile = msm.template
+outputdir = ../../operational/marketstreetmile-website
+outputext = html
+
+[substitutions]
+
+title = MSM Sponsors
+
+styles =
+    <style type="text/css">
+        table {position:relative; left: +0.25in;}
+        .premier img {height: 0.75in; text-align:center; padding=5;}
+        .finishline img {height: 0.65in; text-align:center; padding=5;}
+        .watertable img {height: 0.5in; text-align:center; padding=5;}
+    </style>
+    
+body =
+    <h3>Sponsors</h3>
+    
+    <h4>Premier Sponsors</h4>
+    
+    <table class=premier>
+        <tr>
+            <td><img alt="Rotary Club Logo" src="images/rotary-club-logo.jpg"></td>
+            <td>Rotary Club of Carroll Creek</td>
+        <tr>
+    </table>
+        
+    <h4>Finish Line / Registration / Award Sponsors</h4>
+
+    <!--
+    <table class=finishline>
+    </table>
+    -->
+    
+    <h4>Water Table Sponsors</h4>
+
+    <!--
+    <table class=watertable>
+    </table>
+    -->
+    
+    <h4>General Sponsors</h4>  <!-- no logo -->
+    
+    <ul>
+    </ul>
+
+    <h4>Other Sponsors</h4>  <!-- no logo -->
+    
+    <ul>
+        <li>Frederick Keys</li>
+        <li>Trail House</li>
+    </ul>
