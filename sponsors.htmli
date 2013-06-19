@@ -19,32 +19,39 @@ styles =
 body =
     <h3>Sponsors</h3>
     
-    <h4>Premier Sponsors</h4>
+    <h4>Premier Sponsors</h4>  <!-- $1500 -->
     
     <table class=premier>
         <tr>
-            <td><img alt="Rotary Club Logo" src="images/rotary-club-logo.jpg"></td>
-            <td>Rotary Club of Carroll Creek</td>
+            <td><img alt="Rotary Club of Carroll Creek" src="images/rotary-club-logo.jpg"></td>
+            <td><a href="http://www.carrollcreekrotary.org/" target="_blank">Rotary Club of Carroll Creek</a></td>
+        <tr>
+        <tr>
+            <td><img alt="embrace home loans" src="images/logo_embrace.gif"></td>
+            <td><a href="http://www.embracehomeloans.com/" target="_blank">embrace home loans</a></td>
         <tr>
     </table>
         
-    <h4>Finish Line / Registration / Award Sponsors</h4>
+    <h4>Finish Line / Registration / Award Sponsors</h4>  <!-- $500 -->
 
     <!--
     <table class=finishline>
     </table>
     -->
     
-    <h4>Water Table Sponsors</h4>
+    <h4>Water Table Sponsors</h4>  <!-- $200 -->
 
     <!--
     <table class=watertable>
     </table>
     -->
     
-    <h4>General Sponsors</h4>  <!-- no logo -->
+    <h4>General Sponsors</h4>  <!-- no logo -->  <!-- $50 -->
     
     <ul>
+        <li>Dutch's Daughter</li>
+        <li>Dr. Edward Hummers IV, DDS</li>
+        <li>Weinberg</li>
     </ul>
 
     <h4>Other Sponsors</h4>  <!-- no logo -->
