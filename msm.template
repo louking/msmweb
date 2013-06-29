@@ -6,36 +6,74 @@
     <title>{{{title}}}</title>
 </head>
 <body>
-<div style="text-align: center; float: top;">
-    <img style="width: 1066px; height: 240px;" alt="Market Street Mile" src="images/marketstreetmile-banner-full.jpg"><br>
-</div>
+<!-- wrapper keeps rightside navigation within a specific width -->
+<div id="wrapper">
+    
+    <div style="text-align: center; float: top;">
+        <img style="width: 1000px;" alt="Market Street Mile" src="images/marketstreetmile-banner-full.jpg"><br>
+    </div>
 
-<ul id="navigation">	
-    <li><a href="index.html">Home</a></li>
-    <li><a href="http://www.runningahead.com/events/MSM">Register</a></li>
-    <li><a href="raceinfo.html">Race Info</a></li>
-    <li>
-        <a>Results</a>
-        <ul>
-            <li><a href="http://www.steeplechasers.org/PDF/MSM1Mresults12.pdf" target="_blank">2012</a></li>
-            <li><a href="http://www.steeplechasers.org/PDF/MSMresults11.pdf" target="_blank">2011</a></li>
-            <li><a href="http://www.steeplechasers.org/PDF/MSMresults10.pdf" target="_blank">2010</a></li>
-            <li><a href="http://www.steeplechasers.org/PDF/MarketMile09results.pdf" target="_blank">2009</a></li>
-            <li><a href="http://www.steeplechasers.org/PDF/MSM08Results.pdf" target="_blank">2008</a></li>
-        </ul>
-    </li>
-    <li><a href="sponsors.html">Sponsors</a></li>
-    <li>
-        <a>Contact Us</a>
-        <ul>
-            <li><a href="mailto:eanne044@aol.com" target="_blank">Anne Light</a></li> 
-        </ul>
-    </li>
-</ul>
+    <ul id="navigation">	
+        <li><a href="index.html">Home</a></li>
+        <li><a href="http://www.runningahead.com/events/MSM">Register</a></li>
+        <li><a href="raceinfo.html">Race Info</a></li>
+        <li>
+            <a>Results</a>
+            <ul>
+                <li><a href="http://www.steeplechasers.org/PDF/MSM1Mresults12.pdf" target="_blank">2012</a></li>
+                <li><a href="http://www.steeplechasers.org/PDF/MSMresults11.pdf" target="_blank">2011</a></li>
+                <li><a href="http://www.steeplechasers.org/PDF/MSMresults10.pdf" target="_blank">2010</a></li>
+                <li><a href="http://www.steeplechasers.org/PDF/MarketMile09results.pdf" target="_blank">2009</a></li>
+                <li><a href="http://www.steeplechasers.org/PDF/MSM08Results.pdf" target="_blank">2008</a></li>
+            </ul>
+        </li>
+        <li><a href="sponsors.html">Sponsors</a></li>
+        <li>
+            <a>Contact Us</a>
+            <ul>
+                <li><a href="mailto:eanne044@aol.com" target="_blank">Anne Light</a></li> 
+            </ul>
+        </li>
+    </ul>
+    
+    <div class=body>
+    <br>
+    {{{body}}}
+    <br><br>
+    <script type="text/javascript"><!--
+    google_ad_client = "pub-8240554450693142";
+    /* 300x250, created 5/18/11 */
+    google_ad_slot = "0641052172";
+    google_ad_width = 300;
+    google_ad_height = 250;
+    //-->
+    </script>
+    </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+    
+    </div><!--body-->
 
-<div class=body>
-<br>
-{{{body}}}
-</div>
+    <div class="rightside">
+      <div id="smallDiv3">
+        <a href="https://www.facebook.com/FrederickMarketStreetMile" target="_blank"><img src="images/facebook.jpg"/></a>
+      </div>
+      <!-- google ad -->
+      <div id="smallDiv2">
+        <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-8240554450693142";
+            /* 120x600 skyscraper text and image */
+            google_ad_slot = "7757651893";
+            google_ad_width = 120;
+            google_ad_height = 600;
+        //-->
+        </script>
+        </script>
+            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
+      </div>
+    </div><!--rightside-->
+
+</div><!--wrapper-->
 
 </body></html>

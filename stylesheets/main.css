@@ -5,6 +5,27 @@
   padding: 0;
   position: absolute;
   left: 145px;
+  padding-left:15px;
+  padding-right:15px;
+  width:700px;
+  float:left; 
+}
+
+#wrapper {
+  width:1000px;
+}
+
+#rightside {
+  width:150px;
+  float:left;
+}
+#smallDiv2 {
+  padding-top:20px;
+  text-align:right;
+}
+#smallDiv3 {
+  padding-top:5px;
+  text-align:right;
 }
 
 /* The #navigation is the full navigation which is an unordered list */
