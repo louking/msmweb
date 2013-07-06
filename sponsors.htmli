@@ -34,29 +34,32 @@ body =
         
     <h4>Finish Line / Registration / Award Sponsors</h4>  <!-- $500 -->
 
-    <!--
     <table class=finishline>
+        <tr>
+            <td><img alt="Ausherman Family Foundation" src="images/AushermanFamilyFoundation.jpg"></td>
+            <td><a href="http://www.aushermanfamilyfoundation.org/" target="_blank">Ausherman Family Foundation</a></td>
+        <tr>
     </table>
-    -->
     
     <h4>Water Table Sponsors</h4>  <!-- $200 -->
 
-    <!--
-    <table class=watertable>
-    </table>
-    -->
+    <ul>
+        <li>Women in Defense</li>
+    </ul>
     
     <h4>General Sponsors</h4>  <!-- no logo -->  <!-- $50 -->
     
     <ul>
-        <li>Dutch's Daughter</li>
         <li>Dr. Edward Hummers IV, DDS</li>
-        <li>Weinberg</li>
+        <li>Rippeon & McCurdy DDS PA</li>
     </ul>
 
     <h4>Other Sponsors</h4>  <!-- no logo -->
     
     <ul>
-        <li>Frederick Keys</li>
+        <li>Dutch's Daughter</li>
+        <li>The Frederick Keys</li>
         <li>Trail House</li>
+        <li>The Weinberg Center for the Arts</li>
+        <li>The Wine Kitchen</li>
     </ul>

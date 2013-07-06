@@ -1,0 +1,15 @@
+[template]
+
+templatefile = msm.template
+outputdir = ../../operational/marketstreetmile-website
+outputext = html
+
+[substitutions]
+
+title = MSM Advertisement
+
+body =
+    <h1>Frederick Magazine - August 2013</h1>
+    
+    <img src="images/MarketStreetMileAdv1.jpg" width=700>
+

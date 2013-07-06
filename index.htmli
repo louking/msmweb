@@ -38,9 +38,16 @@ body =
     </table>
     
     <div>
-        <br>
-        <img style="" alt="Market Street" src="images/market-street.jpg">
-        <br>
+        <table style="text-align: center">
+            <tr>
+                <td><img style="" alt="Market Street" src="images/market-street.jpg" height=220></td>
+                <td><img style="" alt="Kid's Run" src="images/kids-run2.jpg" height=220></td>
+            </tr>
+            <tr>
+                <td><img style="" alt="Men's Run" src="images/mens-run.jpg" height=220></td>
+                <td><img style="" alt="Kid's Run" src="images/kids-run.jpg" height=220></td>
+            </tr>
+        </table>
     </div>
     
     <p>
