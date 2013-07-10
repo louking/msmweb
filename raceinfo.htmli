@@ -16,7 +16,7 @@ styles =
 body =
     <h3>Course</h3>
     
-    Point to point race, beginning at the Frederick YMCA, 1000 N. Market St., South on Market St to Carroll Creek Linear Park
+    Point to point race, beginning at the <b>Frederick YMCA</b>, 1000 N. Market St., South on Market St to Carroll Creek Linear Park
     
     <h3>Race Schedule - September 14, 2013</h3>
     
@@ -115,3 +115,13 @@ body =
         <li><a href="MSM2013Flyer,v1.3.pdf" target="_blank">Flyer/mail-in registration form</a> available, but preference is <a href="http://www.runningahead.com/events/MSM" target="_blank">online registration</a> (no additional fee)</li>
     </ul>
 
+    <h3>Special Thanks</h3>
+    
+    <table>
+        <tr>
+            <td><img src="images/ymca-logo.jpg" height=60 alt="YMCA of Frederick County"></td>
+            <td>Special thanks to the <a href="http://frederickymca.org/" target="_blank">YMCA of Frederick County</a> for providing our starting location
+            and the use of their restrooms at the start</td>
+        </tr>
+    </table>
+    
