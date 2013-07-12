@@ -13,7 +13,7 @@ styles =
         table {position:relative; left: +0.25in;}
         .premier img {height: 0.75in; text-align:center; padding=5;}
         .finishline img {height: 0.65in; text-align:center; padding=5;}
-        .watertable img {height: 0.5in; text-align:center; padding=5;}
+        .watertable img {height: 0.55in; text-align:center; padding=5;}
     </style>
     
 body =
@@ -25,11 +25,11 @@ body =
         <tr>
             <td><img alt="Rotary Club of Carroll Creek" src="images/rotary-club-logo.jpg"></td>
             <td><a href="http://www.carrollcreekrotary.org/" target="_blank">Rotary Club of Carroll Creek</a></td>
-        <tr>
+        </tr>
         <tr>
             <td><img alt="embrace home loans" src="images/logo_embrace.gif"></td>
             <td><a href="http://www.embracehomeloans.com/" target="_blank">embrace home loans</a></td>
-        <tr>
+        </tr>
     </table>
         
     <h4>Finish Line / Registration / Award Sponsors</h4>  <!-- $500 -->
@@ -38,14 +38,21 @@ body =
         <tr>
             <td><img alt="Ausherman Family Foundation" src="images/AushermanFamilyFoundation.jpg"></td>
             <td><a href="http://www.aushermanfamilyfoundation.org/" target="_blank">Ausherman Family Foundation</a></td>
-        <tr>
+        </tr>
     </table>
     
     <h4>Water Table Sponsors</h4>  <!-- $200 -->
 
-    <ul>
-        <li>Women in Defense</li>
-    </ul>
+    <table class=watertable>
+        <tr>
+            <td><img alt="Frederick County Bank" src="images/fcb-logo.jpg"></td>
+            <td>Frederick County Bank</td>
+        </tr>
+        <tr>
+            <td><img alt="Women in Defense" src="images/WID-Greater-Frederick.jpg"></td>
+            <td>Women in Defense</td>
+        </tr>
+    </table>
     
     <h4>General Sponsors</h4>  <!-- no logo -->  <!-- $50 -->
     

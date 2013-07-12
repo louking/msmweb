@@ -37,6 +37,10 @@ body =
         </tr>
     </table>
     
+    <p>
+    The Market Street Mile Women's Mile and Men's Mile events are part of the <a href="http://www.mdrrca.org/">Maryland State RRCA</a> Grand Prix Series.
+    </p>
+    
     <div>
         <table style="text-align: center">
             <tr>
@@ -57,11 +61,13 @@ body =
     
     <table>
         <tr>
-            <td><img style="height: 2in;" alt="FSRC Logo" src="images/fsrc-logo.jpg"></td>
-            <td><img style="height: 2in;" alt="Lincoln Panthers" src="images/panthers.jpg"></td>
-            <td><img style="height: 2in; text-align: center;" alt="Rotary Club Logo" src="images/rotary-club-logo.jpg"></td>
+            <td><img style="height: 1.7in;" alt="FSRC Logo" src="images/fsrc-logo.jpg"></td>
+            <td><img style="height: 1.7in" alt="RRCA" src="images/2010_RRCA_Logo.jpg"></td>
+            <td><img style="height: 1.7in;" alt="Lincoln Panthers" src="images/panthers.jpg"></td>
+            <td><img style="height: 1.7in; text-align: center;" alt="Rotary Club Logo" src="images/rotary-club-logo.jpg"></td>
         </tr>
         <tr>
+            <td></td>
             <td></td>
             <td></td>
             <td style="text-align: center;">Carroll Creek</td>
