@@ -14,6 +14,7 @@ styles =
         .premier img {height: 0.75in; text-align:center; padding=5;}
         .finishline img {height: 0.65in; text-align:center; padding=5;}
         .watertable img {height: 0.55in; text-align:center; padding=5;}
+        .general img {height: 0.45in; text-align:center; padding=5;}
     </style>
     
 body =
@@ -39,11 +40,6 @@ body =
             <td><img alt="Ausherman Family Foundation" src="images/AushermanFamilyFoundation.jpg"></td>
             <td><a href="http://www.aushermanfamilyfoundation.org/" target="_blank">Ausherman Family Foundation</a></td>
         </tr>
-    </table>
-    
-    <h4>Water Table Sponsors</h4>  <!-- $200 -->
-
-    <table class=watertable>
         <tr>
             <td><img alt="Frederick County Bank" src="images/fcb-logo.jpg"></td>
             <td>Frederick County Bank</td>
@@ -54,19 +50,36 @@ body =
         </tr>
     </table>
     
+    <h4>Water Table Sponsors</h4>  <!-- $200 -->
+
+    <!--
+    <table class=watertable>
+    </table>
+    -->
+    <ul>
+        <li><a href="http://www.dr-mimi.com/">McLaughlin Family Chiropractic</a></li>
+    </ul>
+    
     <h4>General Sponsors</h4>  <!-- no logo -->  <!-- $50 -->
     
     <ul>
+        <li>BJ McCardle Photography</li>
         <li>Dr. Edward Hummers IV, DDS</li>
-        <li>Rippeon & McCurdy DDS PA</li>
+        <li>Thurmont Family Dentistry</li>
     </ul>
-
+    
     <h4>Other Sponsors</h4>  <!-- no logo -->
     
     <ul>
+        <li>Cacique</li>
         <li>Dutch's Daughter</li>
         <li>The Frederick Keys</li>
+        <li>If the Shoe Fits</li>
+        <li>La Paz</li>
         <li>Trail House</li>
+        <li>Two Paws Up</li>
+        <li>Velvet Lounge</li>
         <li>The Weinberg Center for the Arts</li>
         <li>The Wine Kitchen</li>
+        <li>YMCA of Frederick County</li>
     </ul>
